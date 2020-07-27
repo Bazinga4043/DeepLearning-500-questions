@@ -3,8 +3,8 @@
 ### 深度学习500问-第四章 经典网络
 
 **负责人（排名不分先后）：**  
-华南理工研究生-黄钦建（wechat：HQJ199508212176，email：csqjhuang@mail.scut.edu.cn） 
-东北大学研究生-满森（wechat：asms1995，email：mansen_neu@163.com）
+- 华南理工研究生-黄钦建（wechat：HQJ199508212176，email：csqjhuang@mail.scut.edu.cn） 
+- 东北大学研究生-满森（wechat：asms1995，email：mansen_neu@163.com）
 
 
 **贡献者（排名不分先后）：**  
